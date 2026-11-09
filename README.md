@@ -47,18 +47,3 @@ Proyecto de análisis exploratorio y visualización de datos realizado en la mat
 ## Limitaciones
 
 Es un análisis observacional sobre datos de una encuesta: los resultados muestran **asociaciones, no causalidad**. Además, la muestra (~700 estudiantes) puede no ser representativa de toda la población.
-
-## Estructura
-
-```
-.
-├── README.md
-└── informe/
-    └── Proyecto-Visualizacion-Adiccion-Redes-Sociales.pdf
-```
-
-## Próximos pasos
-
-- Reproducir el análisis en Python (pandas, matplotlib/seaborn) en un notebook.
-- Agregar pruebas de correlación y regresión para cuantificar las relaciones.
-- Limpieza y validación de datos documentadas.
